@@ -38,7 +38,7 @@ PIECE_CNT.times do |cnt|
   end
 
   context.stroke do
-  	context.circle(x, y, CORE_SIZE)
+    context.circle(x, y, CORE_SIZE)
     context.set_source_color(core_color)
     context.fill(true)
     context.set_source_color(LINE_COLOR)
