@@ -4,7 +4,9 @@ rcairoで画像を生成するスクリプトを、感情の赴くがままに�
 
 ### 前提
 
-`gem install cairo`
+* 使用環境は Ruby 2.3.0
+ - ~~未確認だが~~ Ruby 1.9系 以降なら実行できると思う
+* `gem install cairo`
 
 ### あるものリスト
 
